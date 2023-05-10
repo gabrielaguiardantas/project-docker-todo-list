@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Docker ToDo List #
+
+Décimo sétimo projeto do curso de desenvolvimento Web da Trybe e primeiro projeto do módulo de BackEnd. Nesse projeto desenvolvi uma série de comandos para treinar as funcionalidades do Docker. Conhecimentos principais desenvolvidos e aperfeiçoados nesse projeto: 
+
+- Docker
+- Docker-compose 
+
+## Demonstração: ##
+
+## Features implementadas: ##
